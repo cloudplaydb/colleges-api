@@ -12,15 +12,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/starkfire/cheemsburbger-api.git"
-  },
-  "author": "starkfire",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/starkfire/cheemsburbger-api/issues"
-  },
-  "homepage": "https://github.com/starkfire/cheemsburbger-api#readme"
+  }
+  "license": "MIT"
 }
